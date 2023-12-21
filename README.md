@@ -36,9 +36,9 @@ Some info (For non-Chinese speakers):
 ## Getting Started
 ### Deployment
 Download instructions for users (for Windows only):
-1. Download [Release1.0.0.zip](https://github.com/AustinKong/koi/releases/tag/1.0.0)
+1. Download [Release1.0.0.zip](https://github.com/AustinKong/zi/releases/tag/v1.0.0)
 2. Unzip Release1.0.0.zip
-3. Run 字.exe 
+3. Run zi.exe
 ### Dependencies
 * Unity
 ### Installation
