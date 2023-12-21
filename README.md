@@ -4,7 +4,7 @@ A roguelike, paying homage to the original Rogue!
 ![Image](Image.png)
 ### Description
 'Zi', or in Chinese '字' is a roguelike that pays homage to the original Rogue. With its extremely simple text based graphics, procedurally generated dungeons and RNG. This game has various spells and enemies for the player to experience, and even a boss stage at the end!
-<br>
+<br><br>
 Unfortunately, this project is less accessible to English speaking users. However, you may [contact me](https://github.com/AustinKong) for a live demo and explaination.
 <br><br>
 Features:
@@ -15,10 +15,10 @@ Features:
 * Several enemies with different attack patterns
 * Boss level at the end of the game
 * Health system and mana system for spellcasting
-
 <br>
 
 Some info (For non-Chinese speakers):
+
 * The player character is represented by me '我'
 * Navigate to stairs '梯' to start the game, and progres to the next level
 * '墙' are walls, they cannot be walked through
@@ -38,7 +38,7 @@ Some info (For non-Chinese speakers):
 Download instructions for users (for Windows only):
 1. Download [Release1.0.0.zip](https://github.com/AustinKong/koi/releases/tag/1.0.0)
 2. Unzip Release1.0.0.zip
-3. Run 'Project Koi.exe'
+3. Run 字.exe 
 ### Dependencies
 * Unity
 ### Installation
@@ -59,7 +59,6 @@ This project is no longer under active development. Suggestions, issues and bug 
 	
 ## Authors
 Austin Kong [@AustinKong](https://github.com/AustinKong) <br><br>
-Special thanks to BlackThornProd for [technique of animating fish](https://youtu.be/9hTnlp9_wX8)
 
 ## License
 This project is licensed under MIT license. View license in [license.txt](license.txt)
