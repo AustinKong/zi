@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6e194946c3e2c140805bc42a5e83515, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  enemyPool:
+  - {fileID: 3028898039581178965, guid: 060ca32b2e1187b4ea304cafe3cca0ff, type: 3}
+  - {fileID: 1034643933275495180, guid: 4559b1d4615a3654ba9c25bb629b5965, type: 3}
+  - {fileID: 4790611174269345042, guid: ba9bcd6b938d3aa4c9226091d708cfbd, type: 3}
+  - {fileID: 1034643933275495180, guid: 4559b1d4615a3654ba9c25bb629b5965, type: 3}
+  - {fileID: 6760745175470265414, guid: e295f36f257b6d54e884cea8caf6e534, type: 3}
+  - {fileID: 4790611174269345042, guid: ba9bcd6b938d3aa4c9226091d708cfbd, type: 3}
+  newSpellIndex: -1
+  altarCount: 4
+  chestCount: 0

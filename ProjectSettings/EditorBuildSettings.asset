@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ed3f98c1958aeee4ca0cc1e1d2803afb
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: 391ee1d0281abe245af314d72751afa7
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: c74b6747d42a8fc4a81cf5cacfd3ae19
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 86ace0b52b9e0bd4bbbed40526692576
+  m_configObjects: {}
